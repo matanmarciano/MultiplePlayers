@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiplePlayers</string>
+    <string name="swipe_bottom_page_right_amp_left"><![CDATA[<-- Swipe bottom page right & left -->]]></string>
+</resources>
